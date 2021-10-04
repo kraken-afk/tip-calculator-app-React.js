@@ -13,7 +13,7 @@ Users should be able to:
 - Calculate the correct tip and total cost of the bill per person
 
 ### Links
-- Live Site URL: [Add live site URL here](https://tip-calculator-app-react-js.vercel.app/)
+- Live Site URL: [here](https://tip-calculator-app-react-js.vercel.app/)
 
 ## My process
 
