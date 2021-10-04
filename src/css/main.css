@@ -155,7 +155,7 @@ body {
 }
 
 input.box {
-  padding: 0.3rem 0;
+  padding: 0.3rem;
   background-color: var(--Light-grayish-cyan);
   border: 2px solid transparent;
   border-radius: 5px;
