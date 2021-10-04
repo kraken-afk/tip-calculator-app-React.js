@@ -54,5 +54,5 @@ const proudOfThisFunc = () => {
 
 ## Author
 
-- Website - [Romeo Noveanre](https:kraken-afk.github.io)
+- Website - [Romeo Noveanre](https://kraken-afk.github.io)
 - Twitter - [@trshppl](https://www.twitter.com/trshppl)
